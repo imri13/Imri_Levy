@@ -1,0 +1,17 @@
+*{
+    padding: 5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+    color: blue;
+}
+
+button {
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+    border-radius: 30%;
+}
